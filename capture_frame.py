@@ -1,8 +1,8 @@
-import numpy as np
-import cv2
-import pyrealsense2 as rs
-import time
 import os
+import time
+import cv2
+import numpy as np
+import pyrealsense2 as rs
 
 directory_name = '2021-09-09-5'
 
@@ -98,7 +98,6 @@ try:
         if key & 0xFF == ord('s') or is_capture:
             current_time = time.time()
             
-            # SAVE_INTERVAL秒ごとに画像を保存
             if count%10 == 0:
                 color_filename = f'data/{directory_name}/rgb/frame{count}.png'
                 depth_filename = f'data/{directory_name}/depth/frame{count}.png'
@@ -106,11 +105,10 @@ try:
                 # カラー画像の保存
                 cv2.imwrite(color_filename, color_image)
                 
-                # 深度画像の保存（メートル単位）
-                cv2.imwrite(depth_filename, (depth_image_meters * 1000).astype(np.uint16))  # ミリメートル単位で保存
+                # 深度画像の保存（mm単位）
+                cv2.imwrite(depth_filename, (depth_image_meters * 1000).astype(np.uint16))
                 
                 count += 1
-                last_saved_time = current_time
                 print(f"Saved frame {count}")
                 is_capture = True
         
