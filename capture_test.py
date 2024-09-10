@@ -4,7 +4,7 @@ import cv2
 import numpy as np
 import pyrealsense2 as rs
 
-directory_name = '2021-09-09-52'
+directory_name = '2021-09-09-6'
 
 # RealSenseパイプラインの初期化
 pipeline = rs.pipeline()
@@ -95,12 +95,12 @@ try:
         key = cv2.waitKey(1)
 
         # 深度画像とカラー画像の保存
-        if key & 0xFF == ord('s') or is_capture:
+        if key & 0xFF == ord('s'):
             current_time = time.time()
             
             if count%10 == 0:
-                color_filename = f'data/{directory_name}/rgb/frame{count}.png'
-                depth_filename = f'data/{directory_name}/depth/frame{count}.png'
+                color_filename = f'data/{directory_name}/rgb.png'
+                depth_filename = f'data/{directory_name}/depth.png'
                 
                 # カラー画像の保存
                 cv2.imwrite(color_filename, color_image)
@@ -109,8 +109,7 @@ try:
                 cv2.imwrite(depth_filename, (depth_image_meters * 100).astype(np.uint16))
                 print(f"Saved frame {count}")
                 
-            count += 1    
-            is_capture = True
+            count += 1
         
         # 'q'キーで終了
         if key & 0xFF == ord('q'):

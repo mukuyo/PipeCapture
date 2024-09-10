@@ -4,7 +4,7 @@ import cv2
 import numpy as np
 import pyrealsense2 as rs
 
-directory_name = '2021-09-09-52'
+directory_name = 'train2'
 
 # RealSenseパイプラインの初期化
 pipeline = rs.pipeline()
@@ -62,13 +62,13 @@ color_params_filename = f'data/cam_K.txt'
 np.savetxt(color_params_filename, color_camera_matrix, fmt='%f')
 
 count = 0
-is_capture = False
 
 # ディレクトリ作成
 os.makedirs(f"data/{directory_name}/rgb", exist_ok=True)
 os.makedirs(f"data/{directory_name}/depth", exist_ok=True)
 
 try:
+
     while True:
         frames = pipeline.wait_for_frames()
         aligned_frames = align.process(frames)
@@ -95,22 +95,20 @@ try:
         key = cv2.waitKey(1)
 
         # 深度画像とカラー画像の保存
-        if key & 0xFF == ord('s') or is_capture:
+        if key & 0xFF == ord('s'):
             current_time = time.time()
             
-            if count%10 == 0:
-                color_filename = f'data/{directory_name}/rgb/frame{count}.png'
-                depth_filename = f'data/{directory_name}/depth/frame{count}.png'
-                
-                # カラー画像の保存
-                cv2.imwrite(color_filename, color_image)
-                
-                # 深度画像の保存（mm単位）
-                cv2.imwrite(depth_filename, (depth_image_meters * 100).astype(np.uint16))
-                print(f"Saved frame {count}")
+            color_filename = f'data/{directory_name}/rgb/{count}.png'
+            depth_filename = f'data/{directory_name}/depth/{count}.png'
+            
+            # カラー画像の保存
+            cv2.imwrite(color_filename, color_image)
+            
+            # 深度画像の保存（mm単位）
+            cv2.imwrite(depth_filename, (depth_image_meters * 1000).astype(np.uint16))
+            print(f"Saved count: {count}")
                 
             count += 1    
-            is_capture = True
         
         # 'q'キーで終了
         if key & 0xFF == ord('q'):
