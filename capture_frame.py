@@ -4,15 +4,15 @@ import cv2
 import numpy as np
 import pyrealsense2 as rs
 
-directory_name = '2021-09-09-52'
+directory_name = '2021-09-42'
 
 # RealSenseパイプラインの初期化
 pipeline = rs.pipeline()
 config = rs.config()
 
 # ストリームの有効化
-config.enable_stream(rs.stream.depth, 640, 480, rs.format.z16, 30)
-config.enable_stream(rs.stream.color, 640, 480, rs.format.bgr8, 30)
+config.enable_stream(rs.stream.depth, 1280, 720, rs.format.z16, 30)
+config.enable_stream(rs.stream.color, 1280, 720, rs.format.bgr8, 30)
 
 # パイプラインの開始
 profile = pipeline.start(config)
@@ -106,7 +106,7 @@ try:
                 cv2.imwrite(color_filename, color_image)
                 
                 # 深度画像の保存（mm単位）
-                cv2.imwrite(depth_filename, (depth_image_meters * 100).astype(np.uint16))
+                cv2.imwrite(depth_filename, (depth_image_meters * 1000).astype(np.uint16))
                 print(f"Saved frame {count}")
                 
             count += 1    
