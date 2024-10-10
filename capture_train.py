@@ -4,15 +4,15 @@ import cv2
 import numpy as np
 import pyrealsense2 as rs
 
-directory_name = 'train2'
+directory_name = 'train3'
 
 # RealSenseパイプラインの初期化
 pipeline = rs.pipeline()
 config = rs.config()
 
 # ストリームの有効化
-config.enable_stream(rs.stream.depth, 640, 480, rs.format.z16, 30)
-config.enable_stream(rs.stream.color, 640, 480, rs.format.bgr8, 30)
+config.enable_stream(rs.stream.depth, 1280, 720, rs.format.z16, 30)
+config.enable_stream(rs.stream.color, 1280, 720, rs.format.bgr8, 30)
 
 # パイプラインの開始
 profile = pipeline.start(config)
@@ -64,6 +64,7 @@ np.savetxt(color_params_filename, color_camera_matrix, fmt='%f')
 count = 0
 
 # ディレクトリ作成
+os.makedirs(f"data/{directory_name}", exist_ok=True)
 os.makedirs(f"data/{directory_name}/rgb", exist_ok=True)
 os.makedirs(f"data/{directory_name}/depth", exist_ok=True)
 
@@ -105,7 +106,7 @@ try:
             cv2.imwrite(color_filename, color_image)
             
             # 深度画像の保存（mm単位）
-            cv2.imwrite(depth_filename, (depth_image_meters * 1000).astype(np.uint16))
+            cv2.imwrite(depth_filename, (depth_image_meters * 100).astype(np.uint16))
             print(f"Saved count: {count}")
                 
             count += 1    
