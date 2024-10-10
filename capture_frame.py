@@ -90,7 +90,7 @@ try:
         depth_image_meters = depth_image * depth_scale
         
         # カラー画像の表示
-        cv2.imshow("RGB Image", color_image)
+        cv2.imshow("RGB Image", (depth_image_meters * 10000).astype(np.uint16))
         
         key = cv2.waitKey(1)
 

@@ -98,16 +98,16 @@ try:
         if key & 0xFF == ord('s'):
             current_time = time.time()
             
-            if count%10 == 0:
-                color_filename = f'data/{directory_name}/rgb.png'
-                depth_filename = f'data/{directory_name}/depth.png'
-                
-                # カラー画像の保存
-                cv2.imwrite(color_filename, color_image)
-                
-                # 深度画像の保存（mm単位）
-                cv2.imwrite(depth_filename, (depth_image_meters * 100).astype(np.uint16))
-                print(f"Saved frame {count}")
+            # if count%10 == 0:
+            color_filename =  f'../PipeIsoGen/data/real/images/test/rgb/frame{count}.png'
+            depth_filename =  f'../PipeIsoGen/data/real/images/test/depth/frame{count}.png'
+            
+            # カラー画像の保存
+            cv2.imwrite(color_filename, color_image)
+            
+            # 深度画像の保存（mm単位）
+            cv2.imwrite(depth_filename, (depth_image_meters * 100).astype(np.uint16))
+            print(f"Saved frame {count}")
                 
             count += 1
         

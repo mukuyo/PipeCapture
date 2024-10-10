@@ -1,0 +1,374 @@
+[09/15 01:31:02.356266][debug][21269][Context.cpp:30] Context creating, work_dir=/home/th/ws/research/PipeCapture
+[09/15 01:31:02.356308][debug][21269][Context.cpp:49] Config file version=1.1
+[09/15 01:31:02.356323][debug][21269][FrameBufferManager.cpp:23] Max global frame buffer size updated! size=2048.000MB
+[09/15 01:31:02.356331][info][21269][Context.cpp:68] Context created with config: default config!
+[09/15 01:31:02.356347][info][21269][Context.cpp:73] Work directory=/home/th/ws/research/PipeCapture, SDK version=v1.10.11-20240724-aeaa107
+[09/15 01:31:02.356365][debug][21269][DeviceManager.cpp:30] DeviceManager init ...
+[09/15 01:31:02.356371][info][21269][LinuxPal.cpp:32] createObPal: create LinuxPal!
+[09/15 01:31:02.356686][debug][21269][DeviceManager.cpp:34] Enable USB Device Enumerator ...
+[09/15 01:31:02.356700][debug][21269][EnumeratorLibusb.cpp:321] queryDevicesInfo done!
+[09/15 01:31:02.356724][info][21269][LinuxPal.cpp:143] Create PollingDeviceWatcher!
+[09/15 01:31:02.356739][debug][21269][UsbDeviceEnumerator.cpp:78] No matched usb device found!
+[09/15 01:31:02.356749][info][21269][DeviceManager.cpp:15] Current found device(s): (0)
+[09/15 01:31:02.356758][debug][21269][DeviceManager.cpp:52] DeviceManager construct done!
+[09/15 01:31:02.356769][debug][21269][Context.cpp:81] Context destroying ...
+[09/15 01:31:02.356774][debug][21269][DeviceManager.cpp:56] DeviceManager destroy ...
+[09/15 01:31:02.356779][debug][21269][DeviceManager.cpp:64] DeviceManager Destructors done
+[09/15 01:31:02.356870][info][21269][Context.cpp:84] Context destroyed
+[09/15 13:00:11.179488][debug][36256][Context.cpp:30] Context creating, work_dir=/home/th/ws/research/PipeCapture
+[09/15 13:00:11.284011][debug][36256][Context.cpp:49] Config file version=1.1
+[09/15 13:00:11.284061][debug][36256][FrameBufferManager.cpp:23] Max global frame buffer size updated! size=2048.000MB
+[09/15 13:00:11.284075][info][36256][Context.cpp:68] Context created with config: default config!
+[09/15 13:00:11.284098][info][36256][Context.cpp:73] Work directory=/home/th/ws/research/PipeCapture, SDK version=v1.10.11-20240724-aeaa107
+[09/15 13:00:11.284118][debug][36256][DeviceManager.cpp:30] DeviceManager init ...
+[09/15 13:00:11.284124][info][36256][LinuxPal.cpp:32] createObPal: create LinuxPal!
+[09/15 13:00:11.284425][debug][36256][DeviceManager.cpp:34] Enable USB Device Enumerator ...
+[09/15 13:00:11.284437][debug][36256][EnumeratorLibusb.cpp:321] queryDevicesInfo done!
+[09/15 13:00:11.284464][info][36256][LinuxPal.cpp:143] Create PollingDeviceWatcher!
+[09/15 13:00:11.284477][debug][36256][UsbDeviceEnumerator.cpp:78] No matched usb device found!
+[09/15 13:00:11.284487][info][36256][DeviceManager.cpp:15] Current found device(s): (0)
+[09/15 13:00:11.284494][debug][36256][DeviceManager.cpp:52] DeviceManager construct done!
+[09/15 13:00:11.284506][debug][36256][Context.cpp:81] Context destroying ...
+[09/15 13:00:11.284511][debug][36256][DeviceManager.cpp:56] DeviceManager destroy ...
+[09/15 13:00:11.284515][debug][36256][DeviceManager.cpp:64] DeviceManager Destructors done
+[09/15 13:00:11.284790][info][36256][Context.cpp:84] Context destroyed
+[09/15 13:00:22.713465][debug][36449][Context.cpp:30] Context creating, work_dir=/home/th/ws/research/PipeCapture
+[09/15 13:00:22.713508][debug][36449][Context.cpp:49] Config file version=1.1
+[09/15 13:00:22.713527][debug][36449][FrameBufferManager.cpp:23] Max global frame buffer size updated! size=2048.000MB
+[09/15 13:00:22.713536][info][36449][Context.cpp:68] Context created with config: default config!
+[09/15 13:00:22.713553][info][36449][Context.cpp:73] Work directory=/home/th/ws/research/PipeCapture, SDK version=v1.10.11-20240724-aeaa107
+[09/15 13:00:22.713569][debug][36449][DeviceManager.cpp:30] DeviceManager init ...
+[09/15 13:00:22.713576][info][36449][LinuxPal.cpp:32] createObPal: create LinuxPal!
+[09/15 13:00:22.713885][debug][36449][DeviceManager.cpp:34] Enable USB Device Enumerator ...
+[09/15 13:00:22.713899][debug][36449][EnumeratorLibusb.cpp:321] queryDevicesInfo done!
+[09/15 13:00:22.713923][info][36449][LinuxPal.cpp:143] Create PollingDeviceWatcher!
+[09/15 13:00:22.713942][debug][36449][UsbDeviceEnumerator.cpp:78] No matched usb device found!
+[09/15 13:00:22.713951][info][36449][DeviceManager.cpp:15] Current found device(s): (0)
+[09/15 13:00:22.713958][debug][36449][DeviceManager.cpp:52] DeviceManager construct done!
+[09/15 13:00:22.713968][debug][36449][Context.cpp:81] Context destroying ...
+[09/15 13:00:22.713972][debug][36449][DeviceManager.cpp:56] DeviceManager destroy ...
+[09/15 13:00:22.713977][debug][36449][DeviceManager.cpp:64] DeviceManager Destructors done
+[09/15 13:00:22.714112][info][36449][Context.cpp:84] Context destroyed
+[09/15 13:00:25.673958][debug][36572][Context.cpp:30] Context creating, work_dir=/home/th/ws/research/PipeCapture
+[09/15 13:00:25.674003][debug][36572][Context.cpp:49] Config file version=1.1
+[09/15 13:00:25.674017][debug][36572][FrameBufferManager.cpp:23] Max global frame buffer size updated! size=2048.000MB
+[09/15 13:00:25.674025][info][36572][Context.cpp:68] Context created with config: default config!
+[09/15 13:00:25.674037][info][36572][Context.cpp:73] Work directory=/home/th/ws/research/PipeCapture, SDK version=v1.10.11-20240724-aeaa107
+[09/15 13:00:25.674049][debug][36572][DeviceManager.cpp:30] DeviceManager init ...
+[09/15 13:00:25.674054][info][36572][LinuxPal.cpp:32] createObPal: create LinuxPal!
+[09/15 13:00:25.674355][debug][36572][DeviceManager.cpp:34] Enable USB Device Enumerator ...
+[09/15 13:00:25.674369][debug][36572][EnumeratorLibusb.cpp:321] queryDevicesInfo done!
+[09/15 13:00:25.674389][info][36572][LinuxPal.cpp:143] Create PollingDeviceWatcher!
+[09/15 13:00:25.674402][debug][36572][UsbDeviceEnumerator.cpp:78] No matched usb device found!
+[09/15 13:00:25.674410][info][36572][DeviceManager.cpp:15] Current found device(s): (0)
+[09/15 13:00:25.674417][debug][36572][DeviceManager.cpp:52] DeviceManager construct done!
+[09/15 13:00:25.674427][debug][36572][Context.cpp:81] Context destroying ...
+[09/15 13:00:25.674431][debug][36572][DeviceManager.cpp:56] DeviceManager destroy ...
+[09/15 13:00:25.674436][debug][36572][DeviceManager.cpp:64] DeviceManager Destructors done
+[09/15 13:00:25.674642][info][36572][Context.cpp:84] Context destroyed
+[09/15 13:00:52.234109][debug][36707][Context.cpp:30] Context creating, work_dir=/home/th/ws/research/PipeCapture
+[09/15 13:00:52.234160][debug][36707][Context.cpp:49] Config file version=1.1
+[09/15 13:00:52.234175][debug][36707][FrameBufferManager.cpp:23] Max global frame buffer size updated! size=2048.000MB
+[09/15 13:00:52.234182][info][36707][Context.cpp:68] Context created with config: default config!
+[09/15 13:00:52.234196][info][36707][Context.cpp:73] Work directory=/home/th/ws/research/PipeCapture, SDK version=v1.10.11-20240724-aeaa107
+[09/15 13:00:52.234209][debug][36707][DeviceManager.cpp:30] DeviceManager init ...
+[09/15 13:00:52.234213][info][36707][LinuxPal.cpp:32] createObPal: create LinuxPal!
+[09/15 13:00:52.234529][debug][36707][DeviceManager.cpp:34] Enable USB Device Enumerator ...
+[09/15 13:00:52.234542][debug][36707][EnumeratorLibusb.cpp:321] queryDevicesInfo done!
+[09/15 13:00:52.234564][info][36707][LinuxPal.cpp:143] Create PollingDeviceWatcher!
+[09/15 13:00:52.234576][debug][36707][UsbDeviceEnumerator.cpp:78] No matched usb device found!
+[09/15 13:00:52.234585][info][36707][DeviceManager.cpp:15] Current found device(s): (0)
+[09/15 13:00:52.234591][debug][36707][DeviceManager.cpp:52] DeviceManager construct done!
+[09/15 13:00:52.234602][debug][36707][Context.cpp:81] Context destroying ...
+[09/15 13:00:52.234607][debug][36707][DeviceManager.cpp:56] DeviceManager destroy ...
+[09/15 13:00:52.234611][debug][36707][DeviceManager.cpp:64] DeviceManager Destructors done
+[09/15 13:00:52.235084][info][36707][Context.cpp:84] Context destroyed
+[09/15 13:01:13.874472][debug][37011][Context.cpp:30] Context creating, work_dir=/home/th/ws/research/PipeCapture
+[09/15 13:01:13.874519][debug][37011][Context.cpp:49] Config file version=1.1
+[09/15 13:01:13.874535][debug][37011][FrameBufferManager.cpp:23] Max global frame buffer size updated! size=2048.000MB
+[09/15 13:01:13.874551][info][37011][Context.cpp:68] Context created with config: default config!
+[09/15 13:01:13.874565][info][37011][Context.cpp:73] Work directory=/home/th/ws/research/PipeCapture, SDK version=v1.10.11-20240724-aeaa107
+[09/15 13:01:13.874579][debug][37011][DeviceManager.cpp:30] DeviceManager init ...
+[09/15 13:01:13.874584][info][37011][LinuxPal.cpp:32] createObPal: create LinuxPal!
+[09/15 13:01:13.874893][debug][37011][DeviceManager.cpp:34] Enable USB Device Enumerator ...
+[09/15 13:01:13.874907][debug][37011][EnumeratorLibusb.cpp:321] queryDevicesInfo done!
+[09/15 13:01:13.874929][info][37011][LinuxPal.cpp:143] Create PollingDeviceWatcher!
+[09/15 13:01:13.874941][debug][37011][UsbDeviceEnumerator.cpp:78] No matched usb device found!
+[09/15 13:01:13.874951][info][37011][DeviceManager.cpp:15] Current found device(s): (0)
+[09/15 13:01:13.874958][debug][37011][DeviceManager.cpp:52] DeviceManager construct done!
+[09/15 13:01:13.875000][debug][37011][Context.cpp:81] Context destroying ...
+[09/15 13:01:13.875010][debug][37011][DeviceManager.cpp:56] DeviceManager destroy ...
+[09/15 13:01:13.875014][debug][37011][DeviceManager.cpp:64] DeviceManager Destructors done
+[09/15 13:01:13.875468][info][37011][Context.cpp:84] Context destroyed
+[09/15 13:02:17.776538][debug][37396][Context.cpp:30] Context creating, work_dir=/home/th/ws/research/PipeCapture
+[09/15 13:02:17.776584][debug][37396][Context.cpp:49] Config file version=1.1
+[09/15 13:02:17.776598][debug][37396][FrameBufferManager.cpp:23] Max global frame buffer size updated! size=2048.000MB
+[09/15 13:02:17.776606][info][37396][Context.cpp:68] Context created with config: default config!
+[09/15 13:02:17.776618][info][37396][Context.cpp:73] Work directory=/home/th/ws/research/PipeCapture, SDK version=v1.10.11-20240724-aeaa107
+[09/15 13:02:17.776630][debug][37396][DeviceManager.cpp:30] DeviceManager init ...
+[09/15 13:02:17.776635][info][37396][LinuxPal.cpp:32] createObPal: create LinuxPal!
+[09/15 13:02:17.776915][debug][37396][DeviceManager.cpp:34] Enable USB Device Enumerator ...
+[09/15 13:02:17.776928][debug][37396][EnumeratorLibusb.cpp:321] queryDevicesInfo done!
+[09/15 13:02:17.776948][info][37396][LinuxPal.cpp:143] Create PollingDeviceWatcher!
+[09/15 13:02:17.776959][debug][37396][UsbDeviceEnumerator.cpp:78] No matched usb device found!
+[09/15 13:02:17.776967][info][37396][DeviceManager.cpp:15] Current found device(s): (0)
+[09/15 13:02:17.776974][debug][37396][DeviceManager.cpp:52] DeviceManager construct done!
+[09/15 13:02:17.776992][debug][37396][Context.cpp:81] Context destroying ...
+[09/15 13:02:17.776996][debug][37396][DeviceManager.cpp:56] DeviceManager destroy ...
+[09/15 13:02:17.777000][debug][37396][DeviceManager.cpp:64] DeviceManager Destructors done
+[09/15 13:02:17.777238][info][37396][Context.cpp:84] Context destroyed
+[09/15 13:02:57.173080][debug][37727][Context.cpp:30] Context creating, work_dir=/home/th/ws/research/PipeCapture
+[09/15 13:02:57.173127][debug][37727][Context.cpp:49] Config file version=1.1
+[09/15 13:02:57.173142][debug][37727][FrameBufferManager.cpp:23] Max global frame buffer size updated! size=2048.000MB
+[09/15 13:02:57.173150][info][37727][Context.cpp:68] Context created with config: default config!
+[09/15 13:02:57.173162][info][37727][Context.cpp:73] Work directory=/home/th/ws/research/PipeCapture, SDK version=v1.10.11-20240724-aeaa107
+[09/15 13:02:57.173185][debug][37727][DeviceManager.cpp:30] DeviceManager init ...
+[09/15 13:02:57.173190][info][37727][LinuxPal.cpp:32] createObPal: create LinuxPal!
+[09/15 13:02:57.173460][debug][37727][DeviceManager.cpp:34] Enable USB Device Enumerator ...
+[09/15 13:02:57.173473][debug][37727][EnumeratorLibusb.cpp:321] queryDevicesInfo done!
+[09/15 13:02:57.173500][info][37727][LinuxPal.cpp:143] Create PollingDeviceWatcher!
+[09/15 13:02:57.173512][debug][37727][UsbDeviceEnumerator.cpp:78] No matched usb device found!
+[09/15 13:02:57.173521][info][37727][DeviceManager.cpp:15] Current found device(s): (0)
+[09/15 13:02:57.173528][debug][37727][DeviceManager.cpp:52] DeviceManager construct done!
+[09/15 13:02:57.173544][debug][37727][Context.cpp:81] Context destroying ...
+[09/15 13:02:57.173549][debug][37727][DeviceManager.cpp:56] DeviceManager destroy ...
+[09/15 13:02:57.173553][debug][37727][DeviceManager.cpp:64] DeviceManager Destructors done
+[09/15 13:02:57.173765][info][37727][Context.cpp:84] Context destroyed
+[09/15 13:16:38.568994][debug][38973][Context.cpp:30] Context creating, work_dir=/home/th/ws/research/PipeCapture
+[09/15 13:16:38.569039][debug][38973][Context.cpp:49] Config file version=1.1
+[09/15 13:16:38.569054][debug][38973][FrameBufferManager.cpp:23] Max global frame buffer size updated! size=2048.000MB
+[09/15 13:16:38.569062][info][38973][Context.cpp:68] Context created with config: default config!
+[09/15 13:16:38.569074][info][38973][Context.cpp:73] Work directory=/home/th/ws/research/PipeCapture, SDK version=v1.10.11-20240724-aeaa107
+[09/15 13:16:38.569088][debug][38973][DeviceManager.cpp:30] DeviceManager init ...
+[09/15 13:16:38.569093][info][38973][LinuxPal.cpp:32] createObPal: create LinuxPal!
+[09/15 13:16:38.569396][debug][38973][DeviceManager.cpp:34] Enable USB Device Enumerator ...
+[09/15 13:16:38.569411][debug][38973][EnumeratorLibusb.cpp:321] queryDevicesInfo done!
+[09/15 13:16:38.569431][info][38973][LinuxPal.cpp:143] Create PollingDeviceWatcher!
+[09/15 13:16:38.569445][debug][38973][UsbDeviceEnumerator.cpp:78] No matched usb device found!
+[09/15 13:16:38.569453][info][38973][DeviceManager.cpp:15] Current found device(s): (0)
+[09/15 13:16:38.569459][debug][38973][DeviceManager.cpp:52] DeviceManager construct done!
+[09/15 13:16:38.569469][debug][38973][Context.cpp:81] Context destroying ...
+[09/15 13:16:38.569474][debug][38973][DeviceManager.cpp:56] DeviceManager destroy ...
+[09/15 13:16:38.569478][debug][38973][DeviceManager.cpp:64] DeviceManager Destructors done
+[09/15 13:16:38.569838][info][38973][Context.cpp:84] Context destroyed
+[09/15 13:20:00.668687][debug][39328][Context.cpp:30] Context creating, work_dir=/home/th/ws/research/PipeCapture
+[09/15 13:20:00.668731][debug][39328][Context.cpp:49] Config file version=1.1
+[09/15 13:20:00.668745][debug][39328][FrameBufferManager.cpp:23] Max global frame buffer size updated! size=2048.000MB
+[09/15 13:20:00.668753][info][39328][Context.cpp:68] Context created with config: default config!
+[09/15 13:20:00.668765][info][39328][Context.cpp:73] Work directory=/home/th/ws/research/PipeCapture, SDK version=v1.10.11-20240724-aeaa107
+[09/15 13:20:00.668775][debug][39328][DeviceManager.cpp:30] DeviceManager init ...
+[09/15 13:20:00.668780][info][39328][LinuxPal.cpp:32] createObPal: create LinuxPal!
+[09/15 13:20:00.669084][debug][39328][DeviceManager.cpp:34] Enable USB Device Enumerator ...
+[09/15 13:20:00.669099][debug][39328][EnumeratorLibusb.cpp:321] queryDevicesInfo done!
+[09/15 13:20:00.669123][info][39328][LinuxPal.cpp:143] Create PollingDeviceWatcher!
+[09/15 13:20:00.669135][debug][39328][UsbDeviceEnumerator.cpp:78] No matched usb device found!
+[09/15 13:20:00.669143][info][39328][DeviceManager.cpp:15] Current found device(s): (0)
+[09/15 13:20:00.669150][debug][39328][DeviceManager.cpp:52] DeviceManager construct done!
+[09/15 13:20:00.669163][debug][39328][Context.cpp:81] Context destroying ...
+[09/15 13:20:00.669171][debug][39328][DeviceManager.cpp:56] DeviceManager destroy ...
+[09/15 13:20:00.669176][debug][39328][DeviceManager.cpp:64] DeviceManager Destructors done
+[09/15 13:20:00.669724][info][39328][Context.cpp:84] Context destroyed
+[09/15 13:20:15.788755][debug][39542][Context.cpp:30] Context creating, work_dir=/home/th/ws/research/PipeCapture
+[09/15 13:20:15.788800][debug][39542][Context.cpp:49] Config file version=1.1
+[09/15 13:20:15.788815][debug][39542][FrameBufferManager.cpp:23] Max global frame buffer size updated! size=2048.000MB
+[09/15 13:20:15.788822][info][39542][Context.cpp:68] Context created with config: default config!
+[09/15 13:20:15.788835][info][39542][Context.cpp:73] Work directory=/home/th/ws/research/PipeCapture, SDK version=v1.10.11-20240724-aeaa107
+[09/15 13:20:15.788848][debug][39542][DeviceManager.cpp:30] DeviceManager init ...
+[09/15 13:20:15.788858][info][39542][LinuxPal.cpp:32] createObPal: create LinuxPal!
+[09/15 13:20:15.789151][debug][39542][DeviceManager.cpp:34] Enable USB Device Enumerator ...
+[09/15 13:20:15.789164][debug][39542][EnumeratorLibusb.cpp:321] queryDevicesInfo done!
+[09/15 13:20:15.789193][info][39542][LinuxPal.cpp:143] Create PollingDeviceWatcher!
+[09/15 13:20:15.789205][debug][39542][UsbDeviceEnumerator.cpp:78] No matched usb device found!
+[09/15 13:20:15.789214][info][39542][DeviceManager.cpp:15] Current found device(s): (0)
+[09/15 13:20:15.789221][debug][39542][DeviceManager.cpp:52] DeviceManager construct done!
+[09/15 13:20:15.789230][debug][39542][Context.cpp:81] Context destroying ...
+[09/15 13:20:15.789234][debug][39542][DeviceManager.cpp:56] DeviceManager destroy ...
+[09/15 13:20:15.789238][debug][39542][DeviceManager.cpp:64] DeviceManager Destructors done
+[09/15 13:20:15.789427][info][39542][Context.cpp:84] Context destroyed
+[09/15 13:22:06.745876][debug][40177][Context.cpp:30] Context creating, work_dir=/home/th/ws/research/PipeCapture
+[09/15 13:22:06.759097][debug][40177][Context.cpp:49] Config file version=1.1
+[09/15 13:22:06.759127][debug][40177][FrameBufferManager.cpp:23] Max global frame buffer size updated! size=2048.000MB
+[09/15 13:22:06.759140][info][40177][Context.cpp:68] Context created with config: default config!
+[09/15 13:22:06.759159][info][40177][Context.cpp:73] Work directory=/home/th/ws/research/PipeCapture, SDK version=v1.10.11-20240724-aeaa107
+[09/15 13:22:06.759176][debug][40177][DeviceManager.cpp:30] DeviceManager init ...
+[09/15 13:22:06.759181][info][40177][LinuxPal.cpp:32] createObPal: create LinuxPal!
+[09/15 13:22:06.759494][debug][40177][DeviceManager.cpp:34] Enable USB Device Enumerator ...
+[09/15 13:22:06.759508][debug][40177][EnumeratorLibusb.cpp:321] queryDevicesInfo done!
+[09/15 13:22:06.759533][info][40177][LinuxPal.cpp:143] Create PollingDeviceWatcher!
+[09/15 13:22:06.759547][debug][40177][UsbDeviceEnumerator.cpp:78] No matched usb device found!
+[09/15 13:22:06.759556][info][40177][DeviceManager.cpp:15] Current found device(s): (0)
+[09/15 13:22:06.759564][debug][40177][DeviceManager.cpp:52] DeviceManager construct done!
+[09/15 13:22:06.759577][debug][40177][Context.cpp:81] Context destroying ...
+[09/15 13:22:06.759582][debug][40177][DeviceManager.cpp:56] DeviceManager destroy ...
+[09/15 13:22:06.759587][debug][40177][DeviceManager.cpp:64] DeviceManager Destructors done
+[09/15 13:22:06.759745][info][40177][Context.cpp:84] Context destroyed
+[09/15 13:22:24.381010][debug][40345][Context.cpp:30] Context creating, work_dir=/home/th/ws/research/PipeCapture
+[09/15 13:22:24.381205][debug][40345][Context.cpp:49] Config file version=1.1
+[09/15 13:22:24.381250][debug][40345][FrameBufferManager.cpp:23] Max global frame buffer size updated! size=2048.000MB
+[09/15 13:22:24.381272][info][40345][Context.cpp:68] Context created with config: default config!
+[09/15 13:22:24.381308][info][40345][Context.cpp:73] Work directory=/home/th/ws/research/PipeCapture, SDK version=v1.10.11-20240724-aeaa107
+[09/15 13:22:24.381345][debug][40345][DeviceManager.cpp:30] DeviceManager init ...
+[09/15 13:22:24.381359][info][40345][LinuxPal.cpp:32] createObPal: create LinuxPal!
+[09/15 13:22:24.382115][debug][40345][DeviceManager.cpp:34] Enable USB Device Enumerator ...
+[09/15 13:22:24.382154][debug][40345][EnumeratorLibusb.cpp:321] queryDevicesInfo done!
+[09/15 13:22:24.382214][info][40345][LinuxPal.cpp:143] Create PollingDeviceWatcher!
+[09/15 13:22:24.382249][debug][40345][UsbDeviceEnumerator.cpp:78] No matched usb device found!
+[09/15 13:22:24.382273][info][40345][DeviceManager.cpp:15] Current found device(s): (0)
+[09/15 13:22:24.382293][debug][40345][DeviceManager.cpp:52] DeviceManager construct done!
+[09/15 13:22:24.382345][debug][40345][Context.cpp:81] Context destroying ...
+[09/15 13:22:24.382359][debug][40345][DeviceManager.cpp:56] DeviceManager destroy ...
+[09/15 13:22:24.382376][debug][40345][DeviceManager.cpp:64] DeviceManager Destructors done
+[09/15 13:22:24.382576][info][40345][Context.cpp:84] Context destroyed
+[09/15 13:22:31.272894][debug][40345][Context.cpp:30] Context creating, work_dir=/home/th/ws/research/PipeCapture
+[09/15 13:22:31.272937][debug][40345][Context.cpp:49] Config file version=1.1
+[09/15 13:22:31.272953][debug][40345][FrameBufferManager.cpp:23] Max global frame buffer size updated! size=2048.000MB
+[09/15 13:22:31.272961][info][40345][Context.cpp:68] Context created with config: default config!
+[09/15 13:22:31.272978][info][40345][Context.cpp:73] Work directory=/home/th/ws/research/PipeCapture, SDK version=v1.10.11-20240724-aeaa107
+[09/15 13:22:31.272991][debug][40345][DeviceManager.cpp:30] DeviceManager init ...
+[09/15 13:22:31.272997][info][40345][LinuxPal.cpp:32] createObPal: create LinuxPal!
+[09/15 13:22:31.273303][debug][40345][DeviceManager.cpp:34] Enable USB Device Enumerator ...
+[09/15 13:22:31.273319][debug][40345][EnumeratorLibusb.cpp:321] queryDevicesInfo done!
+[09/15 13:22:31.273345][info][40345][LinuxPal.cpp:143] Create PollingDeviceWatcher!
+[09/15 13:22:31.273358][debug][40345][UsbDeviceEnumerator.cpp:78] No matched usb device found!
+[09/15 13:22:31.273368][info][40345][DeviceManager.cpp:15] Current found device(s): (0)
+[09/15 13:22:31.273376][debug][40345][DeviceManager.cpp:52] DeviceManager construct done!
+[09/15 13:22:31.273388][debug][40345][Context.cpp:81] Context destroying ...
+[09/15 13:22:31.273393][debug][40345][DeviceManager.cpp:56] DeviceManager destroy ...
+[09/15 13:22:31.273398][debug][40345][DeviceManager.cpp:64] DeviceManager Destructors done
+[09/15 13:22:31.273526][info][40345][Context.cpp:84] Context destroyed
+[09/15 13:22:49.455911][debug][40345][Context.cpp:30] Context creating, work_dir=/home/th/ws/research/PipeCapture
+[09/15 13:22:49.455956][debug][40345][Context.cpp:49] Config file version=1.1
+[09/15 13:22:49.455985][debug][40345][FrameBufferManager.cpp:23] Max global frame buffer size updated! size=2048.000MB
+[09/15 13:22:49.455999][info][40345][Context.cpp:68] Context created with config: default config!
+[09/15 13:22:49.456020][info][40345][Context.cpp:73] Work directory=/home/th/ws/research/PipeCapture, SDK version=v1.10.11-20240724-aeaa107
+[09/15 13:22:49.456040][debug][40345][DeviceManager.cpp:30] DeviceManager init ...
+[09/15 13:22:49.456048][info][40345][LinuxPal.cpp:32] createObPal: create LinuxPal!
+[09/15 13:22:49.456500][debug][40345][DeviceManager.cpp:34] Enable USB Device Enumerator ...
+[09/15 13:22:49.456522][debug][40345][EnumeratorLibusb.cpp:321] queryDevicesInfo done!
+[09/15 13:22:49.456551][info][40345][LinuxPal.cpp:143] Create PollingDeviceWatcher!
+[09/15 13:22:49.456571][debug][40345][UsbDeviceEnumerator.cpp:78] No matched usb device found!
+[09/15 13:22:49.456584][info][40345][DeviceManager.cpp:15] Current found device(s): (0)
+[09/15 13:22:49.456597][debug][40345][DeviceManager.cpp:52] DeviceManager construct done!
+[09/15 13:22:49.456611][debug][40345][Context.cpp:81] Context destroying ...
+[09/15 13:22:49.456620][debug][40345][DeviceManager.cpp:56] DeviceManager destroy ...
+[09/15 13:22:49.456628][debug][40345][DeviceManager.cpp:64] DeviceManager Destructors done
+[09/15 13:22:49.456877][info][40345][Context.cpp:84] Context destroyed
+[09/15 13:22:52.321928][debug][40345][Context.cpp:30] Context creating, work_dir=/home/th/ws/research/PipeCapture
+[09/15 13:22:52.321977][debug][40345][Context.cpp:49] Config file version=1.1
+[09/15 13:22:52.321994][debug][40345][FrameBufferManager.cpp:23] Max global frame buffer size updated! size=2048.000MB
+[09/15 13:22:52.322002][info][40345][Context.cpp:68] Context created with config: default config!
+[09/15 13:22:52.322016][info][40345][Context.cpp:73] Work directory=/home/th/ws/research/PipeCapture, SDK version=v1.10.11-20240724-aeaa107
+[09/15 13:22:52.322029][debug][40345][DeviceManager.cpp:30] DeviceManager init ...
+[09/15 13:22:52.322034][info][40345][LinuxPal.cpp:32] createObPal: create LinuxPal!
+[09/15 13:22:52.322343][debug][40345][DeviceManager.cpp:34] Enable USB Device Enumerator ...
+[09/15 13:22:52.322357][debug][40345][EnumeratorLibusb.cpp:321] queryDevicesInfo done!
+[09/15 13:22:52.322383][info][40345][LinuxPal.cpp:143] Create PollingDeviceWatcher!
+[09/15 13:22:52.322400][debug][40345][UsbDeviceEnumerator.cpp:78] No matched usb device found!
+[09/15 13:22:52.322409][info][40345][DeviceManager.cpp:15] Current found device(s): (0)
+[09/15 13:22:52.322417][debug][40345][DeviceManager.cpp:52] DeviceManager construct done!
+[09/15 13:22:52.322428][debug][40345][Context.cpp:81] Context destroying ...
+[09/15 13:22:52.322433][debug][40345][DeviceManager.cpp:56] DeviceManager destroy ...
+[09/15 13:22:52.322437][debug][40345][DeviceManager.cpp:64] DeviceManager Destructors done
+[09/15 13:22:52.322584][info][40345][Context.cpp:84] Context destroyed
+[09/15 13:23:00.047742][debug][40605][Context.cpp:30] Context creating, work_dir=/home/th/ws/research/PipeCapture
+[09/15 13:23:00.047789][debug][40605][Context.cpp:49] Config file version=1.1
+[09/15 13:23:00.047804][debug][40605][FrameBufferManager.cpp:23] Max global frame buffer size updated! size=2048.000MB
+[09/15 13:23:00.047812][info][40605][Context.cpp:68] Context created with config: default config!
+[09/15 13:23:00.047825][info][40605][Context.cpp:73] Work directory=/home/th/ws/research/PipeCapture, SDK version=v1.10.11-20240724-aeaa107
+[09/15 13:23:00.047837][debug][40605][DeviceManager.cpp:30] DeviceManager init ...
+[09/15 13:23:00.047842][info][40605][LinuxPal.cpp:32] createObPal: create LinuxPal!
+[09/15 13:23:00.048119][debug][40605][DeviceManager.cpp:34] Enable USB Device Enumerator ...
+[09/15 13:23:00.048133][debug][40605][EnumeratorLibusb.cpp:321] queryDevicesInfo done!
+[09/15 13:23:00.048165][info][40605][LinuxPal.cpp:143] Create PollingDeviceWatcher!
+[09/15 13:23:00.048177][debug][40605][UsbDeviceEnumerator.cpp:78] No matched usb device found!
+[09/15 13:23:00.048186][info][40605][DeviceManager.cpp:15] Current found device(s): (0)
+[09/15 13:23:00.048193][debug][40605][DeviceManager.cpp:52] DeviceManager construct done!
+[09/15 13:23:00.048207][debug][40605][Context.cpp:81] Context destroying ...
+[09/15 13:23:00.048211][debug][40605][DeviceManager.cpp:56] DeviceManager destroy ...
+[09/15 13:23:00.048215][debug][40605][DeviceManager.cpp:64] DeviceManager Destructors done
+[09/15 13:23:00.048372][info][40605][Context.cpp:84] Context destroyed
+[09/15 13:23:15.793040][debug][40842][Context.cpp:30] Context creating, work_dir=/home/th/ws/research/PipeCapture
+[09/15 13:23:15.793116][debug][40842][Context.cpp:49] Config file version=1.1
+[09/15 13:23:15.793134][debug][40842][FrameBufferManager.cpp:23] Max global frame buffer size updated! size=2048.000MB
+[09/15 13:23:15.793142][info][40842][Context.cpp:68] Context created with config: default config!
+[09/15 13:23:15.793155][info][40842][Context.cpp:73] Work directory=/home/th/ws/research/PipeCapture, SDK version=v1.10.11-20240724-aeaa107
+[09/15 13:23:15.793174][debug][40842][DeviceManager.cpp:30] DeviceManager init ...
+[09/15 13:23:15.793180][info][40842][LinuxPal.cpp:32] createObPal: create LinuxPal!
+[09/15 13:23:15.793503][debug][40842][DeviceManager.cpp:34] Enable USB Device Enumerator ...
+[09/15 13:23:15.793519][debug][40842][EnumeratorLibusb.cpp:321] queryDevicesInfo done!
+[09/15 13:23:15.793545][info][40842][LinuxPal.cpp:143] Create PollingDeviceWatcher!
+[09/15 13:23:15.793559][debug][40842][UsbDeviceEnumerator.cpp:78] No matched usb device found!
+[09/15 13:23:15.793569][info][40842][DeviceManager.cpp:15] Current found device(s): (0)
+[09/15 13:23:15.793576][debug][40842][DeviceManager.cpp:52] DeviceManager construct done!
+[09/15 13:23:15.793600][debug][40842][Context.cpp:81] Context destroying ...
+[09/15 13:23:15.793606][debug][40842][DeviceManager.cpp:56] DeviceManager destroy ...
+[09/15 13:23:15.793612][debug][40842][DeviceManager.cpp:64] DeviceManager Destructors done
+[09/15 13:23:15.793678][info][40842][Context.cpp:84] Context destroyed
+[09/15 13:23:21.355800][debug][40842][Context.cpp:30] Context creating, work_dir=/home/th/ws/research/PipeCapture
+[09/15 13:23:21.355880][debug][40842][Context.cpp:49] Config file version=1.1
+[09/15 13:23:21.355915][debug][40842][FrameBufferManager.cpp:23] Max global frame buffer size updated! size=2048.000MB
+[09/15 13:23:21.355952][info][40842][Context.cpp:68] Context created with config: default config!
+[09/15 13:23:21.355986][info][40842][Context.cpp:73] Work directory=/home/th/ws/research/PipeCapture, SDK version=v1.10.11-20240724-aeaa107
+[09/15 13:23:21.356015][debug][40842][DeviceManager.cpp:30] DeviceManager init ...
+[09/15 13:23:21.356028][info][40842][LinuxPal.cpp:32] createObPal: create LinuxPal!
+[09/15 13:23:21.356754][debug][40842][DeviceManager.cpp:34] Enable USB Device Enumerator ...
+[09/15 13:23:21.356787][debug][40842][EnumeratorLibusb.cpp:321] queryDevicesInfo done!
+[09/15 13:23:21.356833][info][40842][LinuxPal.cpp:143] Create PollingDeviceWatcher!
+[09/15 13:23:21.356864][debug][40842][UsbDeviceEnumerator.cpp:78] No matched usb device found!
+[09/15 13:23:21.356886][info][40842][DeviceManager.cpp:15] Current found device(s): (0)
+[09/15 13:23:21.356905][debug][40842][DeviceManager.cpp:52] DeviceManager construct done!
+[09/15 13:23:21.356933][debug][40842][Context.cpp:81] Context destroying ...
+[09/15 13:23:21.356944][debug][40842][DeviceManager.cpp:56] DeviceManager destroy ...
+[09/15 13:23:21.356956][debug][40842][DeviceManager.cpp:64] DeviceManager Destructors done
+[09/15 13:23:21.357119][info][40842][Context.cpp:84] Context destroyed
+[09/15 13:57:29.561650][debug][48646][Context.cpp:30] Context creating, work_dir=/home/th/ws/research/PipeCapture
+[09/15 13:57:29.561821][debug][48646][Context.cpp:49] Config file version=1.1
+[09/15 13:57:29.561860][debug][48646][FrameBufferManager.cpp:23] Max global frame buffer size updated! size=2048.000MB
+[09/15 13:57:29.561882][info][48646][Context.cpp:68] Context created with config: default config!
+[09/15 13:57:29.561919][info][48646][Context.cpp:73] Work directory=/home/th/ws/research/PipeCapture, SDK version=v1.10.11-20240724-aeaa107
+[09/15 13:57:29.561950][debug][48646][DeviceManager.cpp:30] DeviceManager init ...
+[09/15 13:57:29.561962][info][48646][LinuxPal.cpp:32] createObPal: create LinuxPal!
+[09/15 13:57:29.562736][debug][48646][DeviceManager.cpp:34] Enable USB Device Enumerator ...
+[09/15 13:57:29.562773][debug][48646][EnumeratorLibusb.cpp:321] queryDevicesInfo done!
+[09/15 13:57:29.562863][info][48646][LinuxPal.cpp:143] Create PollingDeviceWatcher!
+[09/15 13:57:29.562899][debug][48646][UsbDeviceEnumerator.cpp:78] No matched usb device found!
+[09/15 13:57:29.562922][info][48646][DeviceManager.cpp:15] Current found device(s): (0)
+[09/15 13:57:29.562943][debug][48646][DeviceManager.cpp:52] DeviceManager construct done!
+[09/15 13:57:29.562990][debug][48646][Context.cpp:81] Context destroying ...
+[09/15 13:57:29.563004][debug][48646][DeviceManager.cpp:56] DeviceManager destroy ...
+[09/15 13:57:29.563020][debug][48646][DeviceManager.cpp:64] DeviceManager Destructors done
+[09/15 13:57:29.563387][info][48646][Context.cpp:84] Context destroyed
+[09/15 13:58:03.342089][debug][48827][Context.cpp:30] Context creating, work_dir=/home/th/ws/research/PipeCapture
+[09/15 13:58:03.342238][debug][48827][Context.cpp:49] Config file version=1.1
+[09/15 13:58:03.342291][debug][48827][FrameBufferManager.cpp:23] Max global frame buffer size updated! size=2048.000MB
+[09/15 13:58:03.342332][info][48827][Context.cpp:68] Context created with config: default config!
+[09/15 13:58:03.342387][info][48827][Context.cpp:73] Work directory=/home/th/ws/research/PipeCapture, SDK version=v1.10.11-20240724-aeaa107
+[09/15 13:58:03.342437][debug][48827][DeviceManager.cpp:30] DeviceManager init ...
+[09/15 13:58:03.342474][info][48827][LinuxPal.cpp:32] createObPal: create LinuxPal!
+[09/15 13:58:03.342919][debug][48827][DeviceManager.cpp:34] Enable USB Device Enumerator ...
+[09/15 13:58:03.342974][debug][48827][EnumeratorLibusb.cpp:321] queryDevicesInfo done!
+[09/15 13:58:03.343036][info][48827][LinuxPal.cpp:143] Create PollingDeviceWatcher!
+[09/15 13:58:03.343090][debug][48827][UsbDeviceEnumerator.cpp:78] No matched usb device found!
+[09/15 13:58:03.343132][info][48827][DeviceManager.cpp:15] Current found device(s): (0)
+[09/15 13:58:03.343177][debug][48827][DeviceManager.cpp:52] DeviceManager construct done!
+[09/15 13:58:03.343240][debug][48827][Context.cpp:81] Context destroying ...
+[09/15 13:58:03.343277][debug][48827][DeviceManager.cpp:56] DeviceManager destroy ...
+[09/15 13:58:03.343314][debug][48827][DeviceManager.cpp:64] DeviceManager Destructors done
+[09/15 13:58:03.343438][info][48827][Context.cpp:84] Context destroyed
+[09/15 13:58:04.711706][debug][48839][Context.cpp:30] Context creating, work_dir=/home/th/ws/research/PipeCapture
+[09/15 13:58:04.711783][debug][48839][Context.cpp:49] Config file version=1.1
+[09/15 13:58:04.711799][debug][48839][FrameBufferManager.cpp:23] Max global frame buffer size updated! size=2048.000MB
+[09/15 13:58:04.711806][info][48839][Context.cpp:68] Context created with config: default config!
+[09/15 13:58:04.711819][info][48839][Context.cpp:73] Work directory=/home/th/ws/research/PipeCapture, SDK version=v1.10.11-20240724-aeaa107
+[09/15 13:58:04.711832][debug][48839][DeviceManager.cpp:30] DeviceManager init ...
+[09/15 13:58:04.711836][info][48839][LinuxPal.cpp:32] createObPal: create LinuxPal!
+[09/15 13:58:04.712144][debug][48839][DeviceManager.cpp:34] Enable USB Device Enumerator ...
+[09/15 13:58:04.712159][debug][48839][EnumeratorLibusb.cpp:321] queryDevicesInfo done!
+[09/15 13:58:04.712184][info][48839][LinuxPal.cpp:143] Create PollingDeviceWatcher!
+[09/15 13:58:04.712196][debug][48839][UsbDeviceEnumerator.cpp:78] No matched usb device found!
+[09/15 13:58:04.712204][info][48839][DeviceManager.cpp:15] Current found device(s): (0)
+[09/15 13:58:04.712210][debug][48839][DeviceManager.cpp:52] DeviceManager construct done!
+[09/15 13:58:04.712233][debug][48839][Context.cpp:81] Context destroying ...
+[09/15 13:58:04.712238][debug][48839][DeviceManager.cpp:56] DeviceManager destroy ...
+[09/15 13:58:04.712244][debug][48839][DeviceManager.cpp:64] DeviceManager Destructors done
+[09/15 13:58:04.712642][info][48839][Context.cpp:84] Context destroyed
